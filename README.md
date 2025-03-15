@@ -61,7 +61,7 @@ footer {
 
 While this is not my very first project, I have finally learned how to write semantic and cleaner code. I realized that less is more.
 
-As for Github, I'm still figuring it out. It took way too long to set up this little repository but I am happy to finally put out work with feeling the need for it to be "complete" or "correct". 
+As for Github, I'm still figuring it out. It took way too long to set up this little repository but I am happy to finally put out work with feeling the need for it to be "complete" or "correct". Please feel free to give tips, critiques, and corrections. Always willing to learn.
 
 ### Continued development
 
